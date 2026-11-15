@@ -1,0 +1,1040 @@
+[
+  {
+    "name": "BA in DEVELOPMENT STUDIES PROGRAMME",
+    "code": "1DDEG1",
+    "faculty": "HUMANITIES AND SOCIAL SCIENCES",
+    "degree": "Bachelor of Arts in Development Studies",
+    "nqf_level": "7",
+    "duration_years": "3",
+    "credits": "",
+    "aps": "",
+    "admission_requirements": [
+      "A National Senior Certificate (NSC) with an achievement rating of 4 (moderate Achievement, 40-49%) or better in 5 recognized NSC 20- credit subjects; an achievement rating of 4 (50- 59%) an achievement rating of English as First Additional Language (FAL) or 4 (50-59%) in English as a Home Language (as per faculty rule)."
+    ],
+    "campus": "",
+    "intake": "",
+    "source": "fhss_programmes"
+  },
+  {
+    "name": "BA in INTERCULTURAL COMMUNICATION PROGRAMME",
+    "code": "1CDEG1",
+    "faculty": "HUMANITIES AND SOCIAL SCIENCES",
+    "degree": "Bachelor of Arts: Intercultural Communication 050101",
+    "nqf_level": "7",
+    "duration_years": "",
+    "credits": "",
+    "aps": "",
+    "admission_requirements": [],
+    "campus": "",
+    "intake": "",
+    "source": "fhss_programmes"
+  },
+  {
+    "name": "BA in DRAMA, THEATRE & PERFORMANCE PROGRAMME",
+    "code": "1UDEG2",
+    "faculty": "HUMANITIES AND SOCIAL SCIENCES",
+    "degree": "Bachelor of Arts in Drama, Theatre and Performance",
+    "nqf_level": "7",
+    "duration_years": "",
+    "credits": "",
+    "aps": "",
+    "admission_requirements": [
+      "A National Senior Certificate (NSC) with an achievement rating of 4 (moderate Achievement, 50-59%) or better in 5 recognized NSC 20- credit subjects; and an achievement rating of 4 (50-59%) in English as a Home Language; an achievement rating of 4 (50-59%) in Visual Arts/Dramatic Arts."
+    ],
+    "campus": "",
+    "intake": "",
+    "source": "fhss_programmes"
+  },
+  {
+    "name": "BA in ENVIRONMENTAL PLANNING & DEVELOPMENT PROGRAMME",
+    "code": "1GBA01",
+    "faculty": "HUMANITIES AND SOCIAL SCIENCES",
+    "degree": "Bachelor of Arts Environmental Planning & Development",
+    "nqf_level": "7",
+    "duration_years": "3",
+    "credits": "",
+    "aps": "",
+    "admission_requirements": [
+      "National Senior Certificate with Degree Endorsement and with 28 NSC points,",
+      "Pass of at least 50% (level",
+      "in English,",
+      "Pass of at least 50% (level",
+      "in Geography,",
+      "Refer to the faculty requirements UNDERGRADUATE FACULTY HANDBOOK-2026 71"
+    ],
+    "campus": "",
+    "intake": "",
+    "source": "fhss_programmes"
+  },
+  {
+    "name": "BA in INFORMATION STUDIES PROGRAMME",
+    "code": "1IDEG1",
+    "faculty": "HUMANITIES AND SOCIAL SCIENCES",
+    "degree": "Bachelor of Arts in Information Science",
+    "nqf_level": "7",
+    "duration_years": "",
+    "credits": "",
+    "aps": "",
+    "admission_requirements": [
+      "A National Senior Certificate (NSC) with an achievement rating of 4 (moderate Achievement, 40-49%) or better in 5 recognized NSC 20- credit subjects; and an achievement rating of 4 (50-59%) in English as a Home Language or achievement of 5 (60-",
+      "in English as a First Additional Language.",
+      "Refer to the faculty requirements"
+    ],
+    "campus": "",
+    "intake": "",
+    "source": "fhss_programmes"
+  },
+  {
+    "name": "BA in PSYCHOLOGY PROGRAMME",
+    "code": "1YDEG1",
+    "faculty": "HUMANITIES AND SOCIAL SCIENCES",
+    "degree": "B.A. in Psychology",
+    "nqf_level": "7",
+    "duration_years": "",
+    "credits": "",
+    "aps": "",
+    "admission_requirements": [
+      "NSC with degree endorsement with an achievement rating of 4 (50- 59%) in English (FAL 5 and above), rating of 4 and above in any of the African Languages, Social Science, OR Matric Exemption with any of the above at a Higher Grade.",
+      "Selected candidates with be interviewed for suitability."
+    ],
+    "campus": "",
+    "intake": "JANUARY",
+    "source": "fhss_programmes"
+  },
+  {
+    "name": "BA in SOCIOLOGY PROGRAMME",
+    "code": "1SDEG1",
+    "faculty": "HUMANITIES AND SOCIAL SCIENCES",
+    "degree": "Bachelor of Arts in Sociology",
+    "nqf_level": "7",
+    "duration_years": "",
+    "credits": "",
+    "aps": "",
+    "admission_requirements": [
+      "A National Senior Certificate (NSC) with an achievement rating of 4 (moderate Achievement, 40-49%) or better in 5 recognized NSC 20- credit subjects and an achievement rating of 4 (50-59%) in English as a first additional language and Home Language.",
+      "Refer to the faculty requirements."
+    ],
+    "campus": "",
+    "intake": "",
+    "source": "fhss_programmes"
+  },
+  {
+    "name": "BA in INDUSTRIAL SOCIOLOGY PROGRAMME",
+    "code": "1SDEG2",
+    "faculty": "HUMANITIES AND SOCIAL SCIENCES",
+    "degree": "Bachelor of Arts in Industrial Sociology",
+    "nqf_level": "7",
+    "duration_years": "",
+    "credits": "",
+    "aps": "",
+    "admission_requirements": [
+      "A National Senior Certificate (NSC) with an achievement rating of 4 (moderate Achievement, 40-49%) or better in 5 recognized NSC 20- credit subjects; and an achievement rating of 4 (50-59%) in English as first additional language and Home Language.",
+      "Refer to the faculty requirements."
+    ],
+    "campus": "",
+    "intake": "",
+    "source": "fhss_programmes"
+  },
+  {
+    "name": "Higher Certificate (Accountancy)",
+    "code": "",
+    "faculty": "COMMERCE, ADMINISTRATION AND LAW",
+    "degree": "Higher Certificate (Accountancy)",
+    "nqf_level": "",
+    "duration_years": "1",
+    "credits": "",
+    "aps": "22",
+    "admission_requirements": [
+      "Minimum APS: 22",
+      "English: Level 3 or SG level D or HG level E",
+      "Mathematics: Maths level 3 or SG level D or HG level E or Math Lit level 4"
+    ],
+    "campus": "Richards Bay",
+    "intake": "",
+    "source": "fcal_programmes"
+  },
+  {
+    "name": "Higher Certificate (Marketing)",
+    "code": "",
+    "faculty": "COMMERCE, ADMINISTRATION AND LAW",
+    "degree": "Higher Certificate (Marketing)",
+    "nqf_level": "",
+    "duration_years": "1",
+    "credits": "",
+    "aps": "22",
+    "admission_requirements": [
+      "Minimum APS: 22",
+      "English: Level 3 or SG level D or HG level E",
+      "Mathematics: Maths level 3 or SG level D or HG level E or Math Lit level 4"
+    ],
+    "campus": "Richards Bay",
+    "intake": "",
+    "source": "fcal_programmes"
+  },
+  {
+    "name": "Diploma (Logistics Management)",
+    "code": "",
+    "faculty": "COMMERCE, ADMINISTRATION AND LAW",
+    "degree": "Diploma (Logistics Management)",
+    "nqf_level": "",
+    "duration_years": "3",
+    "credits": "",
+    "aps": "24",
+    "admission_requirements": [
+      "Minimum APS: 24",
+      "English: Level 3 or SG level D or HG level E",
+      "Mathematics: Maths level 3 or SG level D or HG level E or Math Lit level 4"
+    ],
+    "campus": "Richards Bay",
+    "intake": "",
+    "source": "fcal_programmes"
+  },
+  {
+    "name": "Diploma (Management of Co- operatives)",
+    "code": "",
+    "faculty": "COMMERCE, ADMINISTRATION AND LAW",
+    "degree": "Diploma (Management of Co- operatives)",
+    "nqf_level": "",
+    "duration_years": "3",
+    "credits": "",
+    "aps": "24",
+    "admission_requirements": [
+      "Minimum APS: 24",
+      "English: Level 3 or SG level D or HG level E",
+      "Mathematics: Maths level 3 or SG level D or HG level E or Math Lit level 4"
+    ],
+    "campus": "Richards Bay",
+    "intake": "",
+    "source": "fcal_programmes"
+  },
+  {
+    "name": "Diploma (Transport Management)",
+    "code": "",
+    "faculty": "COMMERCE, ADMINISTRATION AND LAW",
+    "degree": "Diploma (Transport Management)",
+    "nqf_level": "",
+    "duration_years": "3",
+    "credits": "",
+    "aps": "24",
+    "admission_requirements": [
+      "Minimum APS: 24",
+      "English: Level 3 or SG level D or HG level E",
+      "Mathematics: Maths level 3 or SG level D or HG level E or Math Lit level 4"
+    ],
+    "campus": "Richards Bay",
+    "intake": "",
+    "source": "fcal_programmes"
+  },
+  {
+    "name": "Bachelor of Commerce 4-Year Augmented Programme",
+    "code": "",
+    "faculty": "COMMERCE, ADMINISTRATION AND LAW",
+    "degree": "Bachelor of Commerce 4-Year Augmented Programme",
+    "nqf_level": "",
+    "duration_years": "4",
+    "credits": "",
+    "aps": "26",
+    "admission_requirements": [
+      "Minimum APS: 26",
+      "English: Level 3 or SG level D or HG level E",
+      "Mathematics: Maths level 3 or SG level D or HG level E or Math Lit level 4"
+    ],
+    "campus": "KwaDlangezwa",
+    "intake": "",
+    "source": "fcal_programmes"
+  },
+  {
+    "name": "Bachelor of Commerce",
+    "code": "",
+    "faculty": "COMMERCE, ADMINISTRATION AND LAW",
+    "degree": "Bachelor of Commerce",
+    "nqf_level": "",
+    "duration_years": "3",
+    "credits": "",
+    "aps": "28",
+    "admission_requirements": [
+      "Minimum APS: 28",
+      "English: Level 4 or SG level C or HG level D",
+      "Mathematics: Maths level 3 or SG level D or HG level E or Math Lit level 6"
+    ],
+    "campus": "KwaDlangezwa",
+    "intake": "",
+    "source": "fcal_programmes"
+  },
+  {
+    "name": "Bachelor of Commerce (Accounting)",
+    "code": "",
+    "faculty": "COMMERCE, ADMINISTRATION AND LAW",
+    "degree": "Bachelor of Commerce (Accounting)",
+    "nqf_level": "",
+    "duration_years": "3",
+    "credits": "",
+    "aps": "28",
+    "admission_requirements": [
+      "Minimum APS: 28",
+      "English: Level 4 or SG level C or HG level D",
+      "Mathematics: Maths level 4 or SG level C or HG level D"
+    ],
+    "campus": "KwaDlangezwa",
+    "intake": "",
+    "source": "fcal_programmes"
+  },
+  {
+    "name": "Bachelor of Commerce (Accounting Science)",
+    "code": "",
+    "faculty": "COMMERCE, ADMINISTRATION AND LAW",
+    "degree": "Bachelor of Commerce (Accounting Science)",
+    "nqf_level": "",
+    "duration_years": "4",
+    "credits": "",
+    "aps": "28",
+    "admission_requirements": [
+      "Minimum APS: 28",
+      "English: Level 4 or SG level C or HG level D",
+      "Mathematics: Maths level 4 or SG level C or HG level D"
+    ],
+    "campus": "KwaDlangezwa",
+    "intake": "",
+    "source": "fcal_programmes"
+  },
+  {
+    "name": "Bachelor of Commerce (Management Information Systems)",
+    "code": "",
+    "faculty": "COMMERCE, ADMINISTRATION AND LAW",
+    "degree": "Bachelor of Commerce (Management Information Systems)",
+    "nqf_level": "",
+    "duration_years": "3",
+    "credits": "",
+    "aps": "28",
+    "admission_requirements": [
+      "Minimum APS: 28",
+      "English: Level 4 or SG level C or HG level D",
+      "Mathematics: Maths level 4 or SG level C or HG level D"
+    ],
+    "campus": "KwaDlangezwa",
+    "intake": "",
+    "source": "fcal_programmes"
+  },
+  {
+    "name": "Bachelor of Administration",
+    "code": "",
+    "faculty": "COMMERCE, ADMINISTRATION AND LAW",
+    "degree": "Bachelor of Administration",
+    "nqf_level": "",
+    "duration_years": "3",
+    "credits": "",
+    "aps": "28",
+    "admission_requirements": [
+      "Minimum APS: 28",
+      "English: Level 4 or SG level D or HG level E",
+      "Mathematics: Maths level 3 or SG level D or HG level E or Math Lit level 4"
+    ],
+    "campus": "KwaDlangezwa",
+    "intake": "",
+    "source": "fcal_programmes"
+  },
+  {
+    "name": "Bachelor of Laws",
+    "code": "",
+    "faculty": "COMMERCE, ADMINISTRATION AND LAW",
+    "degree": "Bachelor of Laws",
+    "nqf_level": "",
+    "duration_years": "4",
+    "credits": "",
+    "aps": "30",
+    "admission_requirements": [
+      "Minimum APS: 30",
+      "English: Level 4 or SG level C or HG level D",
+      "Mathematics: Maths level 3 or SG level D or HG level E or Math Lit level 4"
+    ],
+    "campus": "KwaDlangezwa",
+    "intake": "",
+    "source": "fcal_programmes"
+  },
+  {
+    "name": "4BSC06 BIOCHEMISTRY AND BOTANY",
+    "code": "4BSC06",
+    "faculty": "FACULTY OF SCIENCE, AGRICULTURE AND ENGINEERING",
+    "degree": "BACHELOR OF SCIENCE",
+    "nqf_level": "7",
+    "duration_years": "3",
+    "credits": "416",
+    "aps": "",
+    "admission_requirements": [
+      "A PASS OF AT LEAST 50% (LEVEL 4) IN MATHEMATICS",
+      "A PASS OF AT LEAST 50% (LEVEL 4) IN ENGLISH",
+      "A PASS OF AT LEAST 50% (LEVEL 4) IN LIFE SCIENCES"
+    ],
+    "campus": "",
+    "intake": "JANUARY",
+    "source": "fsae_programmes"
+  },
+  {
+    "name": "4BSC07 BIOCHEMISTRY AND CHEMISTRY",
+    "code": "4BSC07",
+    "faculty": "FACULTY OF SCIENCE, AGRICULTURE AND ENGINEERING",
+    "degree": "BACHELOR OF SCIENCE",
+    "nqf_level": "7",
+    "duration_years": "3",
+    "credits": "416",
+    "aps": "",
+    "admission_requirements": [
+      "A PASS OF AT LEAST 60% (LEVEL 5) IN MATHEMATICS",
+      "A PASS OF AT LEAST 50% (LEVEL 4) IN ENGLISH",
+      "A PASS OF AT LEAST 50% (LEVEL 4) IN PHYSICAL SCIENCE",
+      "A PASS OF AT LEAST 50% (LEVEL 4) IN LIFE SCIENCES"
+    ],
+    "campus": "",
+    "intake": "JANUARY",
+    "source": "fsae_programmes"
+  },
+  {
+    "name": "4BSC08 BIOCHEMISTRY AND HUMAN MOVEMENT SCIENCE",
+    "code": "4BSC08",
+    "faculty": "FACULTY OF SCIENCE, AGRICULTURE AND ENGINEERING",
+    "degree": "BACHELOR OF SCIENCE",
+    "nqf_level": "7",
+    "duration_years": "3",
+    "credits": "416",
+    "aps": "",
+    "admission_requirements": [
+      "A PASS OF AT LEAST 50% (LEVEL 4) IN ENGLISH",
+      "A PASS OF AT LEAST 50% (LEVEL 4) IN MATHEMATICS",
+      "A PASS OF AT LEAST 50% (LEVEL 4) IN PHYSICAL SCIENCE",
+      "A PASS OF AT LEAST 50% (LEVEL 4) IN LIFE SCIENCES"
+    ],
+    "campus": "",
+    "intake": "JANUARY",
+    "source": "fsae_programmes"
+  },
+  {
+    "name": "4BSC09 BIOCHEMISTRY AND MICROBIOLOGY",
+    "code": "4BSC09",
+    "faculty": "FACULTY OF SCIENCE, AGRICULTURE AND ENGINEERING",
+    "degree": "BACHELOR OF SCIENCE",
+    "nqf_level": "7",
+    "duration_years": "3",
+    "credits": "416",
+    "aps": "",
+    "admission_requirements": [
+      "A PASS OF AT LEAST 50% (LEVEL 4) IN MATHEMATICS",
+      "A PASS OF AT LEAST 50% (LEVEL 4) IN LIFE SCIENCES",
+      "A PASS OF AT LEAST 50% (LEVEL 4) IN ENGLISH"
+    ],
+    "campus": "",
+    "intake": "JANUARY",
+    "source": "fsae_programmes"
+  },
+  {
+    "name": "4BSC10 BIOCHEMISTRY AND ZOOLOGY",
+    "code": "4BSC10",
+    "faculty": "FACULTY OF SCIENCE, AGRICULTURE AND ENGINEERING",
+    "degree": "BACHELOR OF SCIENCE",
+    "nqf_level": "7",
+    "duration_years": "3",
+    "credits": "416",
+    "aps": "",
+    "admission_requirements": [
+      "A PASS OF AT LEAST 50% (LEVEL 4) IN ENGLISH",
+      "A PASS OF AT LEAST 50% (LEVEL 4) IN MATHEMATICS",
+      "A PASS OF AT LEAST 50% (LEVEL 4) IN LIFE SCIENCES"
+    ],
+    "campus": "",
+    "intake": "JANUARY",
+    "source": "fsae_programmes"
+  },
+  {
+    "name": "4BSC12 BOTANY AND HYDROLOGY",
+    "code": "4BSC12",
+    "faculty": "FACULTY OF SCIENCE, AGRICULTURE AND ENGINEERING",
+    "degree": "BACHELOR OF SCIENCE",
+    "nqf_level": "7",
+    "duration_years": "3",
+    "credits": "416",
+    "aps": "",
+    "admission_requirements": [
+      "A PASS OF AT LEAST 50% (LEVEL 4) IN ENGLISH",
+      "A PASS OF AT LEAST 50% (LEVEL 4) IN MATHEMATICS",
+      "A PASS OF AT LEAST 50% (LEVEL 4) IN PHYSICAL SCIENCE",
+      "A PASS OF AT LEAST 50% (LEVEL 4) IN LIFE SCIENCES"
+    ],
+    "campus": "",
+    "intake": "JANUARY",
+    "source": "fsae_programmes"
+  },
+  {
+    "name": "4BSC13 BOTANY AND MICROBIOLOGY",
+    "code": "4BSC13",
+    "faculty": "FACULTY OF SCIENCE, AGRICULTURE AND ENGINEERING",
+    "degree": "BACHELOR OF SCIENCE",
+    "nqf_level": "7",
+    "duration_years": "3",
+    "credits": "416",
+    "aps": "",
+    "admission_requirements": [
+      "A PASS OF AT LEAST 50% (LEVEL 4) IN MATHEMATICS",
+      "A PASS OF AT LEAST 50% (LEVEL 4) IN ENGLISH",
+      "A PASS OF AT LEAST 50% (LEVEL 4) IN LIFE SCIENCES"
+    ],
+    "campus": "",
+    "intake": "JANUARY",
+    "source": "fsae_programmes"
+  },
+  {
+    "name": "4BSC14 BOTANY AND ZOOLOGY",
+    "code": "4BSC14",
+    "faculty": "FACULTY OF SCIENCE, AGRICULTURE AND ENGINEERING",
+    "degree": "BACHELOR OF SCIENCE",
+    "nqf_level": "7",
+    "duration_years": "3",
+    "credits": "416",
+    "aps": "",
+    "admission_requirements": [
+      "A PASS OF AT LEAST 50% (LEVEL 4) IN MATHEMATICS",
+      "A PASS OF AT LEAST 50% (LEVEL 4) IN ENGLISH",
+      "A PASS OF AT LEAST 50% (LEVEL 4) IN LIFE SCIENCES"
+    ],
+    "campus": "",
+    "intake": "JANUARY",
+    "source": "fsae_programmes"
+  },
+  {
+    "name": "4BSC15 CHEMISTRY AND COMPUTER SCIENCE",
+    "code": "4BSC15",
+    "faculty": "FACULTY OF SCIENCE, AGRICULTURE AND ENGINEERING",
+    "degree": "BACHELOR OF SCIENCE",
+    "nqf_level": "7",
+    "duration_years": "3",
+    "credits": "416",
+    "aps": "",
+    "admission_requirements": [
+      "A PASS OF AT LEAST 60% (LEVEL 5) IN MATHEMATICS",
+      "A PASS OF AT LEAST 50% (LEVEL 4) IN ENGLISH",
+      "A PASS OF AT LEAST 50% (LEVEL 4) IN PHYSICAL SCIENCE"
+    ],
+    "campus": "",
+    "intake": "JANUARY",
+    "source": "fsae_programmes"
+  },
+  {
+    "name": "4BSC19 CHEMISTRY AND ZOOLOGY",
+    "code": "4BSC19",
+    "faculty": "FACULTY OF SCIENCE, AGRICULTURE AND ENGINEERING",
+    "degree": "BACHELOR OF SCIENCE",
+    "nqf_level": "7",
+    "duration_years": "3",
+    "credits": "416",
+    "aps": "",
+    "admission_requirements": [
+      "A PASS OF AT LEAST 50% (LEVEL 4) IN ENGLISH",
+      "A PASS OF AT LEAST 60% (LEVEL 5) IN MATHEMATICS",
+      "A PASS OF AT LEAST 50% (LEVEL 4) IN PHYSICAL SCIENCE",
+      "A PASS OF AT LEAST 50% (LEVEL 4) IN LIFE SCIENCES"
+    ],
+    "campus": "",
+    "intake": "JANUARY",
+    "source": "fsae_programmes"
+  },
+  {
+    "name": "4BSC20 COMPUTER SCIENCE AND HYDROLOGY",
+    "code": "EXIT NQF LEVEL",
+    "faculty": "FACULTY OF SCIENCE, AGRICULTURE AND ENGINEERING",
+    "degree": "BACHELOR OF SCIENCE",
+    "nqf_level": "7",
+    "duration_years": "3",
+    "credits": "416",
+    "aps": "",
+    "admission_requirements": [
+      "A PASS OF AT LEAST 50% (LEVEL 4) IN ENGLISH",
+      "A PASS OF AT LEAST 60% (LEVEL 5) IN MATHEMATICS",
+      "A PASS OF AT LEAST 50% (LEVEL 4) IN PHYSICAL SCIENCE"
+    ],
+    "campus": "",
+    "intake": "JANUARY",
+    "source": "fsae_programmes"
+  },
+  {
+    "name": "4BSC21 COMPUTER SCIENCE AND MATHEMATICS",
+    "code": "4BSC21",
+    "faculty": "FACULTY OF SCIENCE, AGRICULTURE AND ENGINEERING",
+    "degree": "BACHELOR OF SCIENCE",
+    "nqf_level": "7",
+    "duration_years": "3",
+    "credits": "416",
+    "aps": "",
+    "admission_requirements": [
+      "A PASS OF AT LEAST 60% (LEVEL 5) IN MATHEMATICS",
+      "A PASS OF AT LEAST 50% (LEVEL 4) IN ENGLISH",
+      "A PASS OF AT LEAST 50% (LEVEL 4) IN PHYSICAL SCIENCE"
+    ],
+    "campus": "",
+    "intake": "JANUARY",
+    "source": "fsae_programmes"
+  },
+  {
+    "name": "4BSC22 COMPUTER SCIENCE AND PHYSICS",
+    "code": "4BSC22",
+    "faculty": "FACULTY OF SCIENCE, AGRICULTURE AND ENGINEERING",
+    "degree": "BACHELOR OF SCIENCE",
+    "nqf_level": "7",
+    "duration_years": "3",
+    "credits": "416",
+    "aps": "",
+    "admission_requirements": [
+      "A PASS OF AT LEAST 60% (LEVEL 5) IN MATHEMATICS",
+      "A PASS OF AT LEAST 50% (LEVEL 4) IN ENGLISH",
+      "A PASS OF AT LEAST 50% (LEVEL 4) IN PHYSICAL SCIENCE"
+    ],
+    "campus": "",
+    "intake": "JANUARY",
+    "source": "fsae_programmes"
+  },
+  {
+    "name": "4BSC23 COMPUTER SCIENCE AND STATISTICS",
+    "code": "4BSC23",
+    "faculty": "FACULTY OF SCIENCE, AGRICULTURE AND ENGINEERING",
+    "degree": "BACHELOR OF SCIENCE",
+    "nqf_level": "7",
+    "duration_years": "3",
+    "credits": "416",
+    "aps": "",
+    "admission_requirements": [
+      "A PASS OF AT LEAST 60% (LEVEL 5) IN MATHEMATICS",
+      "A PASS OF AT LEAST 50% (LEVEL 4) IN ENGLISH",
+      "A PASS OF AT LEAST 50% (LEVEL 4) IN PHYSICAL SCIENCE OR"
+    ],
+    "campus": "",
+    "intake": "JANUARY",
+    "source": "fsae_programmes"
+  },
+  {
+    "name": "4BSC26 GEOGRAPHY AND STATISTICS",
+    "code": "4BSC26",
+    "faculty": "FACULTY OF SCIENCE, AGRICULTURE AND ENGINEERING",
+    "degree": "BACHELOR OF SCIENCE",
+    "nqf_level": "7",
+    "duration_years": "3",
+    "credits": "416",
+    "aps": "",
+    "admission_requirements": [
+      "A PASS OF AT LEAST 50% (LEVEL 4) IN ENGLISH",
+      "A PASS OF AT LEAST 50% (LEVEL 4) IN GEOGRAPHY",
+      "A PASS OF AT LEAST 60% (LEVEL 5) IN MATHEMATICS",
+      "A PASS OF AT LEAST 50% (LEVEL 4) IN PHYSICAL SCIENCE"
+    ],
+    "campus": "",
+    "intake": "JANUARY",
+    "source": "fsae_programmes"
+  },
+  {
+    "name": "4BSC28 HUMAN MOVEMENT SCIENCE AND PHYSICS",
+    "code": "4BSC28",
+    "faculty": "FACULTY OF SCIENCE, AGRICULTURE AND ENGINEERING",
+    "degree": "BACHELOR OF SCIENCE",
+    "nqf_level": "7",
+    "duration_years": "3",
+    "credits": "416",
+    "aps": "",
+    "admission_requirements": [
+      "A PASS OF AT LEAST 50% (LEVEL 4) IN ENGLISH",
+      "A PASS OF AT LEAST 60% (LEVEL 5) IN MATHEMATICS",
+      "A PASS OF AT LEAST 50% (LEVEL 4) IN PHYSICAL SCIENCE",
+      "A PASS OF AT LEAST 50% (LEVEL 4) IN LIFE SCIENCES"
+    ],
+    "campus": "",
+    "intake": "JANUARY",
+    "source": "fsae_programmes"
+  },
+  {
+    "name": "4BSC29 HUMAN MOVEMENT SCIENCE AND ZOOLOGY (NOT OFFERED)",
+    "code": "4BSC29",
+    "faculty": "FACULTY OF SCIENCE, AGRICULTURE AND ENGINEERING",
+    "degree": "BACHELOR OF SCIENCE",
+    "nqf_level": "7",
+    "duration_years": "3",
+    "credits": "416",
+    "aps": "",
+    "admission_requirements": [
+      "A PASS OF AT LEAST 50% (LEVEL 4) IN ENGLISH",
+      "A PASS OF AT LEAST 50% (LEVEL 4) IN MATHEMATICS",
+      "A PASS OF AT LEAST 50% (LEVEL 4) IN PHYSICAL SCIENCE",
+      "A PASS OF AT LEAST 50% (LEVEL 4) IN LIFE SCIENCES"
+    ],
+    "campus": "",
+    "intake": "JANUARY",
+    "source": "fsae_programmes"
+  },
+  {
+    "name": "4BSC34 MATHEMATICS AND PHYSICS",
+    "code": "4BSC34",
+    "faculty": "FACULTY OF SCIENCE, AGRICULTURE AND ENGINEERING",
+    "degree": "BACHELOR OF SCIENCE",
+    "nqf_level": "7",
+    "duration_years": "3",
+    "credits": "416",
+    "aps": "",
+    "admission_requirements": [
+      "A PASS OF AT LEAST 60% (LEVEL 5) IN MATHEMATICS",
+      "A PASS OF AT LEAST 50% (LEVEL 4) IN ENGLISH",
+      "A PASS OF AT LEAST 50% (LEVEL 4) IN PHYSICAL SCIENCE"
+    ],
+    "campus": "",
+    "intake": "JANUARY",
+    "source": "fsae_programmes"
+  },
+  {
+    "name": "4BSC37 MICROBIOLOGY AND HUMAN MOVEMENT SCIENCE",
+    "code": "4BSC37",
+    "faculty": "FACULTY OF SCIENCE, AGRICULTURE AND ENGINEERING",
+    "degree": "BACHELOR OF SCIENCE",
+    "nqf_level": "7",
+    "duration_years": "3",
+    "credits": "416",
+    "aps": "",
+    "admission_requirements": [
+      "A PASS OF AT LEAST 50% (LEVEL 4) IN ENGLISH",
+      "A PASS OF AT LEAST 50% (LEVEL 4) IN MATHEMATICS",
+      "A PASS OF AT LEAST 50% (LEVEL 4) IN PHYSICAL SCIENCE",
+      "A PASS OF AT LEAST 50% (LEVEL 4) IN LIFE SCIENCES"
+    ],
+    "campus": "",
+    "intake": "JANUARY",
+    "source": "fsae_programmes"
+  },
+  {
+    "name": "4FBS06 BIOCHEMISTRY AND BOTANY (AUGMENTED)",
+    "code": "4FBS06",
+    "faculty": "FACULTY OF SCIENCE, AGRICULTURE AND ENGINEERING",
+    "degree": "BACHELOR OF SCIENCE",
+    "nqf_level": "7",
+    "duration_years": "4",
+    "credits": "416",
+    "aps": "",
+    "admission_requirements": [
+      "A PASS OF AT LEAST 40% (LEVEL 3) IN MATHEMATICS",
+      "A PASS OF AT LEAST 40% (LEVEL 3) IN ENGLISH",
+      "A PASS OF AT LEAST 40% (LEVEL 3) IN PHYSICAL SCIENCE",
+      "A PASS OF AT LEAST 40% (LEVEL 3) IN LIFE SCIENCES"
+    ],
+    "campus": "",
+    "intake": "JANUARY",
+    "source": "fsae_programmes"
+  },
+  {
+    "name": "4FBS07 BIOCHEMISTRY AND CHEMISTRY (AUGMENTED)",
+    "code": "4FBS07",
+    "faculty": "FACULTY OF SCIENCE, AGRICULTURE AND ENGINEERING",
+    "degree": "BACHELOR OF SCIENCE",
+    "nqf_level": "7",
+    "duration_years": "4",
+    "credits": "416",
+    "aps": "",
+    "admission_requirements": [
+      "A PASS OF AT LEAST 40% (LEVEL 3) IN MATHEMATICS",
+      "A PASS OF AT LEAST 40% (LEVEL3) IN ENGLISH",
+      "A PASS OF AT LEAST 40% (LEVEL 3) IN PHYSICAL SCIENCE",
+      "A PASS OF AT LEAST 40% (LEVEL 3) IN LIFE SCIENCES"
+    ],
+    "campus": "",
+    "intake": "JANUARY",
+    "source": "fsae_programmes"
+  },
+  {
+    "name": "4FBS08 BIOCHEMISTRY AND HUMAN MOVEMENT SCIENCE (AUGMENTED)",
+    "code": "4FBS08",
+    "faculty": "FACULTY OF SCIENCE, AGRICULTURE AND ENGINEERING",
+    "degree": "BACHELOR OF SCIENCE",
+    "nqf_level": "7",
+    "duration_years": "4",
+    "credits": "416",
+    "aps": "",
+    "admission_requirements": [
+      "A PASS OF AT LEAST 40% (LEVEL 3) IN ENGLISH",
+      "A PASS OF AT LEAST 40% (LEVEL 3) IN MATHEMATICS",
+      "A PASS OF AT LEAST 40% (LEVEL 3) IN PHYSICAL SCIENCE",
+      "A PASS OF AT LEAST 40% (LEVEL 3) IN LIFE SCIENCES"
+    ],
+    "campus": "",
+    "intake": "JANUARY",
+    "source": "fsae_programmes"
+  },
+  {
+    "name": "4FBS09 BIOCHEMISTRY AND MICROBIOLOGY (AUGMENTED)",
+    "code": "4FBS09",
+    "faculty": "FACULTY OF SCIENCE, AGRICULTURE AND ENGINEERING",
+    "degree": "BACHELOR OF SCIENCE",
+    "nqf_level": "7",
+    "duration_years": "4",
+    "credits": "416",
+    "aps": "",
+    "admission_requirements": [
+      "A PASS OF AT LEAST 40% (LEVEL 3) IN MATHEMATICS",
+      "A PASS OF AT LEAST 40% (LEVEL 3) IN LIFE SCIENCES",
+      "A PASS OF AT LEAST 40% (LEVEL 3) IN PHYSICAL SCIENCE",
+      "A PASS OF AT LEAST 40% (LEVEL 3) IN ENGLISH"
+    ],
+    "campus": "",
+    "intake": "JANUARY",
+    "source": "fsae_programmes"
+  },
+  {
+    "name": "4FBS10 BIOCHEMISTRY AND ZOOLOGY (AUGMENTED)",
+    "code": "4FBS10",
+    "faculty": "FACULTY OF SCIENCE, AGRICULTURE AND ENGINEERING",
+    "degree": "BACHELOR OF SCIENCE",
+    "nqf_level": "7",
+    "duration_years": "4",
+    "credits": "416",
+    "aps": "",
+    "admission_requirements": [
+      "A PASS OF AT LEAST 40% (LEVEL 3) IN ENGLISH",
+      "A PASS OF AT LEAST 40% (LEVEL 3) IN MATHEMATICS",
+      "A PASS OF AT LEAST 40% (LEVEL 3) IN LIFE SCIENCES",
+      "A PASS OF AT LEAST 40% (LEVEL 3) IN PHYSICAL SCIENCES"
+    ],
+    "campus": "",
+    "intake": "JANUARY",
+    "source": "fsae_programmes"
+  },
+  {
+    "name": "4FBS12 BOTANY AND HYDROLOGY (AUGMENTED)",
+    "code": "4FBS12",
+    "faculty": "FACULTY OF SCIENCE, AGRICULTURE AND ENGINEERING",
+    "degree": "BACHELOR OF SCIENCE",
+    "nqf_level": "7",
+    "duration_years": "4",
+    "credits": "416",
+    "aps": "",
+    "admission_requirements": [
+      "A PASS OF AT LEAST 40% (LEVEL 3) IN ENGLISH",
+      "A PASS OF AT LEAST 40% (LEVEL 3) IN MATHEMATICS",
+      "A PASS OF AT LEAST 40% (LEVEL 3) IN PHYSICAL SCIENCE",
+      "A PASS OF AT LEAST 40% (LEVEL 3) IN LIFE SCIENCES"
+    ],
+    "campus": "",
+    "intake": "JANUARY",
+    "source": "fsae_programmes"
+  },
+  {
+    "name": "4FBS13 BOTANY AND MICROBIOLOGY (AUGMENTED)",
+    "code": "4FBS13",
+    "faculty": "FACULTY OF SCIENCE, AGRICULTURE AND ENGINEERING",
+    "degree": "BACHELOR OF SCIENCE",
+    "nqf_level": "7",
+    "duration_years": "4",
+    "credits": "416",
+    "aps": "",
+    "admission_requirements": [
+      "A PASS OF AT LEAST 40% (LEVEL 3) IN MATHEMATICS",
+      "A PASS OF AT LEAST 40% (LEVEL 3) IN ENGLISH",
+      "A PASS OF AT LEAST 40% (LEVEL 3) IN LIFE SCIENCES",
+      "A PASS OF AT LEAST 40% (LEVEL 3) IN PHYSICAL SCIENCE"
+    ],
+    "campus": "",
+    "intake": "JANUARY",
+    "source": "fsae_programmes"
+  },
+  {
+    "name": "4FBS14 BOTANY AND ZOOLOGY (AUGMENTED)",
+    "code": "4FBS14",
+    "faculty": "FACULTY OF SCIENCE, AGRICULTURE AND ENGINEERING",
+    "degree": "BACHELOR OF SCIENCE",
+    "nqf_level": "7",
+    "duration_years": "4",
+    "credits": "416",
+    "aps": "",
+    "admission_requirements": [
+      "A PASS OF AT LEAST 40% (LEVEL 3) IN MATHEMATICS",
+      "A PASS OF AT LEAST 40% (LEVEL 3) IN ENGLISH",
+      "A PASS OF AT LEAST 40% (LEVEL 3) IN LIFE SCIENCES",
+      "A PASS OF AT LEAST 40% (LEVEL 3) IN PHYSICAL SCIENCE"
+    ],
+    "campus": "",
+    "intake": "JANUARY",
+    "source": "fsae_programmes"
+  },
+  {
+    "name": "4FBS15 CHEMISTRY AND COMPUTER SCIENCE (AUGMENTED)",
+    "code": "4FBS15",
+    "faculty": "FACULTY OF SCIENCE, AGRICULTURE AND ENGINEERING",
+    "degree": "BACHELOR OF SCIENCE",
+    "nqf_level": "7",
+    "duration_years": "4",
+    "credits": "416",
+    "aps": "",
+    "admission_requirements": [
+      "A PASS OF AT LEAST 40% (LEVEL 3) IN MATHEMATICS",
+      "A PASS OF AT LEAST 40% (LEVEL 3) IN ENGLISH",
+      "A PASS OF AT LEAST 40% (LEVEL 3) IN PHYSICAL SCIENCE"
+    ],
+    "campus": "",
+    "intake": "JANUARY",
+    "source": "fsae_programmes"
+  },
+  {
+    "name": "4FBS19 CHEMISTRY AND ZOOLOGY (AUGMENTED)",
+    "code": "4FBS19",
+    "faculty": "FACULTY OF SCIENCE, AGRICULTURE AND ENGINEERING",
+    "degree": "BACHELOR OF SCIENCE",
+    "nqf_level": "7",
+    "duration_years": "4",
+    "credits": "416",
+    "aps": "",
+    "admission_requirements": [
+      "A PASS OF AT LEAST 40% (LEVEL 3) IN ENGLISH",
+      "A PASS OF AT LEAST 40% (LEVEL 3) IN MATHEMATICS",
+      "A PASS OF AT LEAST 40% (LEVEL 3) IN PHYSICAL SCIENCE",
+      "A PASS OF AT LEAST 40% (LEVEL 3) IN LIFE SCIENCES"
+    ],
+    "campus": "",
+    "intake": "JANUARY",
+    "source": "fsae_programmes"
+  },
+  {
+    "name": "4FBS20 COMPUTER SCIENCE AND HYDROLOGY (AUGMENTED)",
+    "code": "4FBS20",
+    "faculty": "FACULTY OF SCIENCE, AGRICULTURE AND ENGINEERING",
+    "degree": "BACHELOR OF SCIENCE",
+    "nqf_level": "7",
+    "duration_years": "4",
+    "credits": "416",
+    "aps": "",
+    "admission_requirements": [
+      "A PASS OF AT LEAST 40% (LEVEL 3) IN ENGLISH",
+      "A PASS OF AT LEAST 40% (LEVEL 3) IN MATHEMATICS",
+      "A PASS OF AT LEAST 40% (LEVEL 3) IN PHYSICAL SCIENCE"
+    ],
+    "campus": "",
+    "intake": "JANUARY",
+    "source": "fsae_programmes"
+  },
+  {
+    "name": "4FBS21 COMPUTER SCIENCE AND MATHEMATICS (AUGMENTED)",
+    "code": "4FBS21",
+    "faculty": "FACULTY OF SCIENCE, AGRICULTURE AND ENGINEERING",
+    "degree": "BACHELOR OF SCIENCE",
+    "nqf_level": "7",
+    "duration_years": "4",
+    "credits": "416",
+    "aps": "",
+    "admission_requirements": [
+      "A PASS OF AT LEAST 40% (LEVEL 3) IN MATHEMATICS",
+      "A PASS OF AT LEAST 40% (LEVEL 3) IN ENGLISH",
+      "A PASS OF AT LEAST 40% (LEVEL 3) IN PHYSICAL SCIENCE"
+    ],
+    "campus": "",
+    "intake": "JANUARY",
+    "source": "fsae_programmes"
+  },
+  {
+    "name": "4FBS22 COMPUTER SCIENCE AND PHYSICS (AUGMENTED)",
+    "code": "4FBS22",
+    "faculty": "FACULTY OF SCIENCE, AGRICULTURE AND ENGINEERING",
+    "degree": "BACHELOR OF SCIENCE",
+    "nqf_level": "7",
+    "duration_years": "4",
+    "credits": "416",
+    "aps": "",
+    "admission_requirements": [
+      "A PASS OF AT LEAST 40% (LEVEL 3) IN MATHEMATICS",
+      "A PASS OF AT LEAST 40% (LEVEL 3) IN ENGLISH",
+      "A PASS OF AT LEAST 40% (LEVEL 3) IN PHYSICAL SCIENCE"
+    ],
+    "campus": "",
+    "intake": "JANUARY",
+    "source": "fsae_programmes"
+  },
+  {
+    "name": "4FBS23 COMPUTER SCIENCE AND STATISTICS (AUGMENTED)",
+    "code": "4FBS23",
+    "faculty": "FACULTY OF SCIENCE, AGRICULTURE AND ENGINEERING",
+    "degree": "BACHELOR OF SCIENCE",
+    "nqf_level": "7",
+    "duration_years": "4",
+    "credits": "416",
+    "aps": "",
+    "admission_requirements": [
+      "A PASS OF AT LEAST 40% (LEVEL 3) IN MATHEMATICS",
+      "A PASS OF AT LEAST 40% (LEVEL 3) IN ENGLISH",
+      "A PASS OF AT LEAST 40% (LEVEL 3) IN PHYSICAL SCIENCE"
+    ],
+    "campus": "",
+    "intake": "JANUARY",
+    "source": "fsae_programmes"
+  },
+  {
+    "name": "4FBS26 GEOGRAPHY AND STATISTICS (AUGMENTED)",
+    "code": "4FBS26",
+    "faculty": "FACULTY OF SCIENCE, AGRICULTURE AND ENGINEERING",
+    "degree": "BACHELOR OF SCIENCE",
+    "nqf_level": "7",
+    "duration_years": "4",
+    "credits": "416",
+    "aps": "",
+    "admission_requirements": [
+      "A PASS OF AT LEAST 40% (LEVEL 3) IN ENGLISH",
+      "A PASS OF AT LEAST 40% (LEVEL 3) IN GEOGRAPHY",
+      "A PASS OF AT LEAST 40% (LEVEL 3) IN MATHEMATICS",
+      "A PASS OF AT LEAST 40% (LEVEL 3) IN PHYSICAL SCIENCE"
+    ],
+    "campus": "",
+    "intake": "JANUARY",
+    "source": "fsae_programmes"
+  },
+  {
+    "name": "4FBS28 HUMAN MOVEMENT SCIENCE AND PHYSICS (AUGMENTED)",
+    "code": "4FBS28",
+    "faculty": "FACULTY OF SCIENCE, AGRICULTURE AND ENGINEERING",
+    "degree": "BACHELOR OF SCIENCE",
+    "nqf_level": "7",
+    "duration_years": "4",
+    "credits": "416",
+    "aps": "",
+    "admission_requirements": [
+      "A PASS OF AT LEAST 40% (LEVEL 3) IN ENGLISH",
+      "A PASS OF AT LEAST 40% (LEVEL 3) IN MATHEMATICS",
+      "A PASS OF AT LEAST 40% (LEVEL 3) IN PHYSICAL SCIENCE",
+      "A PASS OF AT LEAST 40% (LEVEL 3) IN LIFE SCIENCES"
+    ],
+    "campus": "",
+    "intake": "JANUARY",
+    "source": "fsae_programmes"
+  },
+  {
+    "name": "4FBS34 MATHEMATICS AND PHYSICS (AUGMENTED)",
+    "code": "4FBS34",
+    "faculty": "FACULTY OF SCIENCE, AGRICULTURE AND ENGINEERING",
+    "degree": "BACHELOR OF SCIENCE",
+    "nqf_level": "7",
+    "duration_years": "4",
+    "credits": "416",
+    "aps": "",
+    "admission_requirements": [
+      "A PASS OF AT LEAST 40% (LEVEL 3) IN MATHEMATICS",
+      "A PASS OF AT LEAST 40% (LEVEL 3) IN ENGLISH",
+      "A PASS OF AT LEAST 40% (LEVEL 3) IN PHYSICAL SCIENCE"
+    ],
+    "campus": "",
+    "intake": "JANUARY",
+    "source": "fsae_programmes"
+  },
+  {
+    "name": "4FBS37 MICROBIOLOGY AND HUMAN MOVEMENT SCIENCE (AUGMENTED)",
+    "code": "4FBS37",
+    "faculty": "FACULTY OF SCIENCE, AGRICULTURE AND ENGINEERING",
+    "degree": "BACHELOR OF SCIENCE",
+    "nqf_level": "7",
+    "duration_years": "4",
+    "credits": "416",
+    "aps": "",
+    "admission_requirements": [
+      "A PASS OF AT LEAST 40% (LEVEL 3) IN ENGLISH",
+      "A PASS OF AT LEAST 40% (LEVEL 3) IN MATHEMATICS",
+      "A PASS OF AT LEAST 40% (LEVEL 3) IN PHYSICAL SCIENCE",
+      "A PASS OF AT LEAST 40% (LEVEL 3) IN LIFE SCIENCES"
+    ],
+    "campus": "",
+    "intake": "JANUARY",
+    "source": "fsae_programmes"
+  }
+]
